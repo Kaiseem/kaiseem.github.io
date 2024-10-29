@@ -2,6 +2,44 @@
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
+<script type="text/javascript">
+  function visibility_on(id) {
+       var e = document.getElementById(id+"_text");
+       if(e.style.display == 'none')
+           e.style.display = 'block';
+       var e = document.getElementById(id+"_img");
+       if(e.style.display == 'none')
+           e.style.display = 'block';
+  }
+  function visibility_off(id) {
+       var e = document.getElementById(id+"_text");
+       if(e.style.display == 'block')
+           e.style.display = 'none';
+       var e = document.getElementById(id+"_img");
+       if(e.style.display == 'block')
+           e.style.display = 'none';
+  }
+  function toggle_visibility(id) {
+      var e = document.getElementById(id+"_text");
+      if(e.style.display == 'inline')
+         e.style.display = 'block';
+      else
+         e.style.display = 'inline';
+      var e = document.getElementById(id+"_img");
+      if(e.style.display == 'inline')
+         e.style.display = 'block';
+      else
+         e.style.display = 'inline';
+  }
+  function toggle_vis(id) {
+      var e = document.getElementById(id);
+      if (e.style.display == 'none')
+          e.style.display = 'inline';
+      else
+          e.style.display = 'none';
+  }
+</script>
+
 <ul>
 <li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24 Findings.</li> 
 <li><strong>[JUN. 2024]</strong> UN 2024 - Our papers accepted in ECCV24.</li> 

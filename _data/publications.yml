@@ -7,7 +7,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-B, Top-tier in NLP
 
   - title: Unleashing the Power of Prompt-driven Nucleus Instance Segmentation
     authors: Zhongyi Shui, Yunlong Zhang, <strong>Kai Yao</strong>, Chenglu Zhu, Yuxuan Sun, Lin Yang
@@ -17,7 +17,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-B, Top-tier in CV
 
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: Zixian Su, Jingwei Guo, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
@@ -27,7 +27,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-A
 
   - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
     authors: <strong>Kai Yao</strong>, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
@@ -37,7 +37,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-B, Top-tier in DM
 
   - title: Machine learning and 3D bioprinting
     authors: Jie Sun, <strong>Kai Yao</strong>, Jia An, Linzhi Jing, Kaizhu Huang, Dejian Huang
@@ -47,7 +47,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, IF 6.8
 
   - title: PointNu-Net:Simultaneous Multi-tissue Histology Nuclei Segmentation and Classification in the Clinical Wild
     authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Amir Hussain, Curran Jude
@@ -57,7 +57,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, IF 5.7
 
   - title: Mind The Gap:Alleviating Local Imbalance for Unsupervised Cross-Modality Medical Image Segmentation
     authors: Zixian Su, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Yuyao Yan, Kaizhu Huang
@@ -67,7 +67,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, JCR Q1, IF 7.7
 
   - title: Machine Learning Methods in Skin Disease Recognition:A Systematic Review
     authors: Jie Sun, <strong>Kai Yao</strong>, Guangyao Huang, Chengrui Zhang, Mark Leach, Kaizhu Huang, Xi Yang
@@ -87,7 +87,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-A
 
   - title: Outpainting by Queries
     authors: <strong>Kai Yao*</strong>, Penglei Gao*, Xi Yang, Jie Sun, Rui Zhang, Kaizhu Huang
@@ -97,7 +97,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-B, Top-tier in CV
 
   - title: A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation
     authors: <strong>Kai Yao*</strong>, Zixian Su*, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
@@ -107,7 +107,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, JCR Q1, IF 7.7
 
   - title: Machine Learning Applications in Scaffold-based Bioprinting
     authors: Jie Sun, <strong>Kai Yao</strong>, Kaizhu Huang, Dejian Huang
@@ -127,7 +127,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, IF 6.8
 
   - title: AD-GAN:End-to-end unsupervised nuclei segmentation with aligned disentangling training
     authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Curran Jude
@@ -147,7 +147,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, IF 6.8
 
   - title: Scaffold-A549:a benchmark 3D fluorescence image dataset for unsupervised nuclei segmentation
     authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Lingzhi Jing, Dejian Huang, Curran Jude
@@ -157,7 +157,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-B
 
   - title: Noninvasive In Vivo Imaging and Monitoring of 3D-Printed Polycaprolactone Scaffolds Labeled with an NIR Region II Fluorescent Dye
     authors: Lingzhi Jing, Mingtai Sun, Pingkang Xu, <strong>Kai Yao</strong>, Jiao Yang, Xiang Wang, Hang Liu, Minxuan Sun, Yao Sun, Runyan Ni, Jie Sun, Dejian Huang
@@ -167,7 +167,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q2
 
   - title: Improving deep neural network performance by integrating kernelized Min-Max objective
     authors: Qiufeng Wang, <strong>Kai Yao</strong>, Rui Zhang, Amir Hussain, Kaizhu Huang
@@ -177,7 +177,7 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: SCI Q1, JCR Q1, IF 5.5
 
   - title: Improving Deep Neural Network Performance with Kernelized Min-Max Objective
     authors: <strong>Kai Yao</strong>, Kaizhu Huang, Rui Zhang, Amir Hussain
@@ -187,4 +187,4 @@ main:
     # code: https://github.com/kiwi12138/RealisticTTA
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
-    notes: Published
+    notes: CCF-C
