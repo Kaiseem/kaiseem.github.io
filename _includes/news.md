@@ -3,7 +3,19 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-
-<li><strong>[JUN. 2024]</strong> Happy to join <span style="color:#e74d3c"><a href="https://www.dukekunshan.edu.cn/">Duke Kunshan University </a></span> to start my research intern.
-<li><strong>[DEC. 2023]</strong> Our paper  <span style="color:#e74d3c"><a href="https://arxiv.org/abs/2312.09486">"Unraveling Batch Normalization for Realistic Test-Time Adaptation"</a></span> is accepted by <span style="color:#e74d3c"><a href="https://aaai.org/aaai-conference/">AAAI2024 </a></span> as Oral (Top 10% among accepted papers).</li> 
-<li><strong>[AUG. 2023]</strong> Our collaborative paper  <span style="color:#e74d3c"><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3614872">"Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation"</a></span> is accepted by <span style="color:#e74d3c"><a href="https://uobevents.eventsair.com/cikm2023//">CIKM2023 </a></span> as Oral.</li> 
+<li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24 Findings.</li> 
+<li><strong>[JUN. 2024]</strong> UN 2024 - Our papers accepted in ECCV24.</li> 
+<li><strong>[DEC. 2023]</strong> DEC 2023 - Our papers accepted in AAAI24.</li> 
+<li><a href="javascript:toggle_vis('news')">show more</a></li>
+ <div id="news" style="display:none">
+<li>Aug 2023 - Our papers accepted as Oral Presentation in ACM CIKM2023.</li>
+<li>May 2023 - Our two journal papers accepted in IEEE TETCI and IJB.</li>
+<li>Nov 2022 - Our conference paper accepted in AAAI'23. We propose a novel augmentation for medical image domain generalization. The code released at <a href="https://github.com/Kaiseem/SLAug">here</a>.</li>
+<li>Jul 2022 - Our conference paper accepted in ECCV'22. We propose a novel hybrid vision-transformer-based GAN for image outpainting. The code released at <a href="https://github.com/Kaiseem/QueryOTR">here</a>.</li>
+<li>Jun 2022 - Our journal paper accepted in IEEE-JBHI (IF: 7.0).</li>
+<li>Dec 2021 - Our team PremiLab wins 5th in the Challenge <a href="https://www.sciencedirect.com/science/article/pii/S1361841522002560">CrossMoDa 2021 (MICCAI workshop)</a>.</li>
+<li>Dec 2021 - Our journal paper accepted in International Journal of Bioprinting (IF: 7.4).</li>
+<li>Nov 2021 - Our journal paper accepted in Cognitive Computation (IF: 4.9).</li>
+<li>Dec 2019 - I started my PhD course at UoL PremiLab Lab with full scholarship.</li>
+</div>
+</ul>
