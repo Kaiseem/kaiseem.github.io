@@ -1,84 +1,190 @@
 main:
-
-  - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
-    authors: <strong>Zixian Su</strong>, Jingwei Guo, Kai Yao, Xi Yang, Qiufeng Wang, Kaizhu Huang
-    conference_short: AAAI2024
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence
-    pdf: ./assets/files/TTA.pdf
-    code: https://github.com/kiwi12138/RealisticTTA
-    bibtex: ./assets/files/TTA.txt
+  - title: Layer-wise Importance Matters:Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models
+    authors: <strong>Kai Yao</strong>, Penglei Gao, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu
+    conference_short: EMNLP2024
+    conference: Proceedings of Empirical Methods in Natural Language Processing (EMNLP) Findings
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
     image: ./assets/files/TTA_banner.png
     notes: Published
 
-  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
-    authors: Kai Yao, Zhaorui Tan, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
-    pdf: https://arxiv.org/pdf/2405.14278
-    conference_short: Arxiv
-    bibtex: ./assets/files/SCMIX.txt
-    image: ./assets/files/OCDA_banner.png
-    notes: Under Review
+  - title: Unleashing the Power of Prompt-driven Nucleus Instance Segmentation
+    authors: Zhongyi Shui, Yunlong Zhang, <strong>Kai Yao</strong>, Chenglu Zhu, Yuxuan Sun, Lin Yang
+    conference_short: ECCV2024
+    conference: European Conference on Computer Vision
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
 
-  - title: Rethinking data augmentation for single-source domain generalization in medical image segmentation
-    authors: <strong>Zixian Su*</strong>, Kai Yao*, Xi Yang, Kaizhu Huang, Qiufeng Wang, Jie Sun
-    conference_short: AAAI2023
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence
-    pdf: ./assets/files/SDG.pdf
-    code: https://github.com/kiwi12138/SLAug
-    bibtex: ./assets/files/SDG.txt
-    image: ./assets/files/SDG.png
+  - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
+    authors: Zixian Su, Jingwei Guo, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
+    conference_short: AAAI2024
+    conference: Proceedings of Association for the Advancement of Artificial Intelligence
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
   - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
-    authors: Kai Yao, <strong>Zixian Su</strong>, Xi Yang, Jie Sun, Kaizhu Huang
-    conference_short: CIKM2023
-    conference: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
-    pdf: ./assets/files/CIKM.pdf
-    bibtex: ./assets/files/CIKM.txt
-    image: ./assets/files/CIKM.png
+    authors: <strong>Kai Yao</strong>, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
+    conference_short: CIKM2023 Oral
+    conference: ACM International Conference on Information and Knowledge Management
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
+  - title: Machine learning and 3D bioprinting
+    authors: Jie Sun, <strong>Kai Yao</strong>, Jia An, Linzhi Jing, Kaizhu Huang, Dejian Huang
+    conference_short: IJB2023
+    conference: International Journal of Bioprinting
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
 
-  - title: Mind the gap:Alleviating local imbalance for unsupervised cross-modality medical image segmentation
-    authors: <strong>Zixian Su</strong>, Kai Yao, Xi Yang, Qiufeng Wang, Yuyao Yan, Jie Sun, Kaizhu Huang
-    conference_short: JBHI
+  - title: PointNu-Net:Simultaneous Multi-tissue Histology Nuclei Segmentation and Classification in the Clinical Wild
+    authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Amir Hussain, Curran Jude
+    conference_short: TETCI2023
+    conference: IEEE Transactions on Emerging Topics in Computational Intelligence
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Mind The Gap:Alleviating Local Imbalance for Unsupervised Cross-Modality Medical Image Segmentation
+    authors: Zixian Su, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Yuyao Yan, Kaizhu Huang
+    conference_short: JBHI2023
     conference: IEEE Journal of Biomedical and Health Informatics
-    pdf: ./assets/files/UDA2D.pdf
-    bibtex: ./assets/files/UDA2D.txt
-    image: ./assets/files/UDA2D.png
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Machine Learning Methods in Skin Disease Recognition:A Systematic Review
+    authors: Jie Sun, <strong>Kai Yao</strong>, Guangyao Huang, Chengrui Zhang, Mark Leach, Kaizhu Huang, Xi Yang
+    conference_short: Processes
+    conference: Processes
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Rethinking Data Augmentation for Single-source Domain Generalization in Medical Image Segmentation
+    authors: Zixian Su*, <strong>Kai Yao*</strong>, Xi Yang, Qiufeng Wang, Jie Sun, Kaizhu Huang
+    conference_short: AAAI2023
+    conference: Proceedings of Association for the Advancement of Artificial Intelligence
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Outpainting by Queries
+    authors: <strong>Kai Yao*</strong>, Penglei Gao*, Xi Yang, Jie Sun, Rui Zhang, Kaizhu Huang
+    conference_short: ECCV2022
+    conference: European Conference on Computer Vision
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
   - title: A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation
-    authors: Kai Yao*, <strong>Zixian Su*</strong>, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
-    conference_short: JBHI
+    authors: <strong>Kai Yao*</strong>, Zixian Su*, Kaizhu Huang, Xi Yang, Jie Sun, Amir Hussain, Frans Coenen
+    conference_short: JBHI2022
     conference: IEEE Journal of Biomedical and Health Informatics
-    pdf: ./assets/files/UDA3D.pdf
-    code: https://github.com/Kaiseem/DAR-UNet
-    bibtex: ./assets/files/UDA3D.txt
-    image: ./assets/files/UDA3D.png
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
-  - title: CrossMoDA 2021 challenge:Benchmark of cross-modality domain adaptation techniques for vestibular schwannoma and cochlea segmentation
-    conference_short: MIA
-    conference: Medical Image Analysis
-    pdf: https://www.sciencedirect.com/science/article/pii/S1361841522002560
-    bibtex: ./assets/files/MIA.txt
-    image: ./assets/files/MIA.png
+  - title: Machine Learning Applications in Scaffold-based Bioprinting
+    authors: Jie Sun, <strong>Kai Yao</strong>, Kaizhu Huang, Dejian Huang
+    conference_short: MT2022
+    conference: Materials Today:Proceedings
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
-  - title: Topological Anderson insulator in two-dimensional non-Hermitian systems
-    authors: Hongfang Liu, <strong>Zixian Su</strong>, Zhi-Qiang Zhang, Hua Jiang
-    conference_short: Chin. Phys. B
-    conference: Chinese Physics B
-    pdf: https://cpb.iphy.ac.cn/article/2020/2030/cpb_29_5_050502.html
-    bibtex: ./assets/files/CPB2.txt
-    image: ./assets/files/CPB2.png
+  - title: Analyzing cell-scaffold interaction through unsupervised 3d nuclei segmentation
+    authors: <strong>Kai Yao</strong>, Jie Sun, Kaizhu Huang, Lingzhi Jing, Hang Liu, Dejian Huang, Curran Jude
+    conference_short: IJB2021
+    conference: International Journal of Bioprinting
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
 
-  - title: Disorder induced phase transition in magnetic higher-order topological insulator:A machine learning study
-    authors: <strong>Zixian Su</strong>, Yanzhuo Kang, Bofeng Zhang, Zhiqiang Zhang, Hua Jiang
-    conference_short: Chin. Phys. B
-    conference: Chinese Physics B
-    pdf: https://iopscience.iop.org/article/10.1088/1674-1056/ab4582/meta
-    bibtex: ./assets/files/CPB1.txt
-    image: ./assets/files/CPB1.jpg
+  - title: AD-GAN:End-to-end unsupervised nuclei segmentation with aligned disentangling training
+    authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Curran Jude
+    conference_short: Arxiv
+    conference: Arxiv
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Electrohydrodynamic jet-printed ultrathin polycaprolactone scaffolds mimicking bruch’s membrane for retinal pigment epithelial tissue engineering
+    authors: Hang Liu, Fan Wu, Renwei Chen, Yanan Chen, <strong>Kai Yao</strong>, Zengping Liu, Bhav Harshad Parikh, Linzhi Jing, Tiange Liu, Xinyi Su, Jie Sun, Dejian Huang
+    conference_short: IJB2021
+    conference: International Journal of Bioprinting
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Scaffold-A549:a benchmark 3D fluorescence image dataset for unsupervised nuclei segmentation
+    authors: <strong>Kai Yao</strong>, Kaizhu Huang, Jie Sun, Lingzhi Jing, Dejian Huang, Curran Jude
+    conference_short: CC2021
+    conference: Cognitive Computation
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Noninvasive In Vivo Imaging and Monitoring of 3D-Printed Polycaprolactone Scaffolds Labeled with an NIR Region II Fluorescent Dye
+    authors: Lingzhi Jing, Mingtai Sun, Pingkang Xu, <strong>Kai Yao</strong>, Jiao Yang, Xiang Wang, Hang Liu, Minxuan Sun, Yao Sun, Runyan Ni, Jie Sun, Dejian Huang
+    conference_short: ACS2021
+    conference: ACS Applied Bio Materials
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Improving deep neural network performance by integrating kernelized Min-Max objective
+    authors: Qiufeng Wang, <strong>Kai Yao</strong>, Rui Zhang, Amir Hussain, Kaizhu Huang
+    conference_short: NC2020
+    conference: NeuroComputing
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
+    notes: Published
+
+  - title: Improving Deep Neural Network Performance with Kernelized Min-Max Objective
+    authors: <strong>Kai Yao</strong>, Kaizhu Huang, Rui Zhang, Amir Hussain
+    conference_short: ICONIP2018
+    conference: International Conference on Neural Information Processing
+    # pdf: ./assets/files/TTA.pdf
+    # code: https://github.com/kiwi12138/RealisticTTA
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/files/TTA_banner.png
     notes: Published
