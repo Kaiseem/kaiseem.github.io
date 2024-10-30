@@ -1,6 +1,6 @@
 main:
   - title: Layer-wise Importance Matters:Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models
-    authors: <strong>Kai Yao</strong>, Penglei Gao, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu
+    authors: <strong>Kai Yao*</strong>, Penglei Gao*, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu
     conference_short: EMNLP2024 Findings
     conference: Proceedings of Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2410.11772
@@ -19,6 +19,16 @@ main:
     image: ./assets/img/eccv24_promptnucseg.png
     notes: CCF-B, Top-tier in CV
 
+  - title: OPa-Ma:Text Guided Mamba for 360-degree Image Out-painting
+    authors: Penglei Gao*, <strong>Kai Yao*</strong>, Tiandi Ye, Steven Wang, Yuan Yao, Xiaofeng Wang
+    conference_short: Under Review
+    # conference: European Conference on Computer Vision
+    pdf: https://arxiv.org/pdf/2407.10923
+    # code: https://github.com/windygoo/PromptNucSeg
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/img/opama.png
+    notes: Under Review
+
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: Zixian Su, Jingwei Guo, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
     conference_short: AAAI2024 Oral
@@ -28,6 +38,16 @@ main:
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/aaai24_tta.png
     notes: CCF-A
+
+  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
+    authors: Kai Yao, Zhaorui Tan, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
+    conference_short: Under Review
+    # conference: European Conference on Computer Vision
+    pdf: https://arxiv.org/pdf/2407.10923
+    # code: https://github.com/windygoo/PromptNucSeg
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/img/scmix.png
+    notes: Under Review
 
   - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
     authors: <strong>Kai Yao</strong>, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
