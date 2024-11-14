@@ -1,7 +1,7 @@
 main:
   - title: Layer-wise Importance Matters:Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models
     authors: <strong>Kai Yao*</strong>, Penglei Gao*, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu
-    conference_short: EMNLP2024 Findings
+    conference_short: EMNLP2024
     conference: Proceedings of Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2410.11772
     code: https://github.com/Kaiseem/IST
