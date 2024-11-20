@@ -3,34 +3,6 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <script type="text/javascript">
-  function visibility_on(id) {
-       var e = document.getElementById(id+"_text");
-       if(e.style.display == 'none')
-           e.style.display = 'block';
-       var e = document.getElementById(id+"_img");
-       if(e.style.display == 'none')
-           e.style.display = 'block';
-  }
-  function visibility_off(id) {
-       var e = document.getElementById(id+"_text");
-       if(e.style.display == 'block')
-           e.style.display = 'none';
-       var e = document.getElementById(id+"_img");
-       if(e.style.display == 'block')
-           e.style.display = 'none';
-  }
-  function toggle_visibility(id) {
-      var e = document.getElementById(id+"_text");
-      if(e.style.display == 'inline')
-         e.style.display = 'block';
-      else
-         e.style.display = 'inline';
-      var e = document.getElementById(id+"_img");
-      if(e.style.display == 'inline')
-         e.style.display = 'block';
-      else
-         e.style.display = 'inline';
-  }
   function toggle_vis(id) {
       var e = document.getElementById(id);
       if (e.style.display == 'none')
@@ -45,7 +17,9 @@
 <li><strong>[JUN. 2024]</strong> UN 2024 - Our papers accepted in ECCV24.</li> 
 <li><strong>[DEC. 2023]</strong> DEC 2023 - Our papers accepted in AAAI24.</li> 
 <li><a href="javascript:toggle_vis('news')">show more</a></li>
- <div id="news" style="display:none">
+</ul>
+
+<ul id="news" style="display:none;">
 <li>Aug 2023 - Our papers accepted as Oral Presentation in ACM CIKM2023.</li>
 <li>May 2023 - Our two journal papers accepted in IEEE TETCI and IJB.</li>
 <li>Nov 2022 - Our conference paper accepted in AAAI'23. We propose a novel augmentation for medical image domain generalization. The code released at <a href="https://github.com/Kaiseem/SLAug">here</a>.</li>
@@ -55,5 +29,4 @@
 <li>Dec 2021 - Our journal paper accepted in International Journal of Bioprinting (IF: 7.4).</li>
 <li>Nov 2021 - Our journal paper accepted in Cognitive Computation (IF: 4.9).</li>
 <li>Dec 2019 - I started my PhD course at UoL PremiLab Lab with full scholarship.</li>
-</div>
 </ul>
