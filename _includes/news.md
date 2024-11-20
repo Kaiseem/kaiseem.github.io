@@ -41,7 +41,7 @@
 </script>
 
 <ul>
-<li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24 Findings.</li> 
+<li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24.</li> 
 <li><strong>[JUN. 2024]</strong> UN 2024 - Our papers accepted in ECCV24.</li> 
 <li><strong>[DEC. 2023]</strong> DEC 2023 - Our papers accepted in AAAI24.</li> 
 <li><a href="javascript:toggle_vis('news')">show more</a></li>
