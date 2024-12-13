@@ -13,12 +13,14 @@
 </script>
 
 <ul>
+<li><strong>[DEC. 2024]</strong> Our papers accepted in AAAI2025.</li> 
+<li><strong>[NOV. 2024]</strong> I am happy to attend EMNLP24 in person at Miami.</li> 
 <li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24.</li> 
-<li><strong>[JUN. 2024]</strong> UN 2024 - Our papers accepted in ECCV24.</li> 
-<li><strong>[DEC. 2023]</strong> DEC 2023 - Our papers accepted in AAAI24.</li> 
+<li><strong>[JUN. 2024]</strong> Our papers accepted in ECCV24.</li> 
+<li><strong>[DEC. 2023]</strong> Our papers accepted in AAAI24.</li> 
+
 <li><a href="javascript:toggle_vis('news')">show more</a></li>
 </ul>
-
 <ul id="news" style="display:none;">
 <li>Aug 2023 - Our papers accepted as Oral Presentation in ACM CIKM2023.</li>
 <li>May 2023 - Our two journal papers accepted in IEEE TETCI and IJB.</li>

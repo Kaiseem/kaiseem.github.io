@@ -1,4 +1,12 @@
 main:
+  - title: ScaleOT:Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression
+    authors: <strong>Kai Yao</strong>, Zhaorui Tan, Tiandi Ye, Lichun Li, Yuan Zhao, Wenyan Liu, Wei Wang, Jianke Zhu
+    conference_short: AAAI2025
+    conference: Proceedings of Association for the Advancement of Artificial Intelligence
+    pdf: https://arxiv.org/pdf/2410.11772
+    image: ./assets/img/aaai25_scaleot.png
+    notes: CCF-A
+
   - title: Layer-wise Importance Matters:Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models
     authors: <strong>Kai Yao*</strong>, Penglei Gao*, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang, Jianke Zhu
     conference_short: EMNLP2024
