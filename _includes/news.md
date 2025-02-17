@@ -13,7 +13,7 @@
 </script>
 
 <ul>
-<li><strong>[DEC. 2024]</strong> Our papers accepted in AAAI2025.</li> 
+<li><strong>[DEC. 2024]</strong> Our papers accepted in AAAI2025 as Oral presentation.</li> 
 <li><strong>[NOV. 2024]</strong> I am happy to attend EMNLP24 in person at Miami.</li> 
 <li><strong>[SEP. 2024]</strong> Our papers accepted in EMNLP24.</li> 
 <li><strong>[JUN. 2024]</strong> Our papers accepted in ECCV24.</li> 
