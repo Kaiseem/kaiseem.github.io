@@ -1,4 +1,14 @@
 main:
+  - title: Unlock Pose Diversity:Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait
+    authors: Chaolong Yang*, <strong>Kai Yao*</strong>, Yuyao Yan, Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang
+    conference_short: Under Review
+    # conference: European Conference on Computer Vision
+    pdf: https://arxiv.org/abs/2503.12963
+    code: https://github.com/chaolongy/KDTalker
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/img/kdtalker.png
+    notes: Under Review
+
   - title: ScaleOT:Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression
     authors: <strong>Kai Yao</strong>, Zhaorui Tan, Tiandi Ye, Lichun Li, Yuan Zhao, Wenyan Liu, Wei Wang, Jianke Zhu
     conference_short: AAAI2025 Oral
