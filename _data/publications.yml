@@ -1,4 +1,12 @@
 main:
+  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
+    authors: Kai Yao, Zhaorui Tan, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems
+    pdf: https://arxiv.org/pdf/2407.10923
+    image: ./assets/img/scmix.png
+    notes: CCF-B
+
   - title: Unlock Pose Diversity:Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait
     authors: Chaolong Yang*, <strong>Kai Yao*</strong>, Yuyao Yan, Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang
     conference_short: Under Review
@@ -56,16 +64,6 @@ main:
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/aaai24_tta.png
     notes: CCF-A
-
-  - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
-    authors: Kai Yao, Zhaorui Tan, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
-    conference_short: Under Review
-    # conference: European Conference on Computer Vision
-    pdf: https://arxiv.org/pdf/2407.10923
-    # code: https://github.com/windygoo/PromptNucSeg
-    # bibtex: ./assets/files/TTA.txt
-    image: ./assets/img/scmix.png
-    notes: Under Review
 
   - title: Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation
     authors: <strong>Kai Yao</strong>, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
