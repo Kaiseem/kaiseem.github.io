@@ -1,6 +1,6 @@
 main:
   - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
-    authors: Kai Yao, Zhaorui Tan, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
+    authors: <strong>Kai Yao*</strong>, Zhaorui Tan*, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://arxiv.org/pdf/2407.10923
