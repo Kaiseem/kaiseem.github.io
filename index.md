@@ -6,10 +6,11 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I'm a researcher in Ant Group working on privacy-preserving large foundational models. Meanwhile, I am a PostDoc in Zhejiang University advised by Prof. Jianke Zhu. My research background lies in computer vision and transfer learning. I did my PhD at at [University of Liverpool](https://www.liverpool.ac.uk). Previously, I completed B.Eng. at Xi'an Jiaotong-Liverpool University.
+I'm a researcher in Ant Group working on Generative Retrieval with Large Language Models. Meanwhile, I am a PostDoc in Zhejiang University advised by Prof. Jianke Zhu. My research background lies in computer vision and transfer learning. I did my PhD at at [University of Liverpool](https://www.liverpool.ac.uk). Previously, I completed B.Eng. at Xi'an Jiaotong-Liverpool University.
 
 ## Research Interest
 - **Large Language Model** 
+- **Generative Retrieval** 
 - **Transfer Learning**
 - **Image Generation**
 - **Medical Image Analysis**
@@ -25,7 +26,7 @@ I'm a researcher in Ant Group working on privacy-preserving large foundational m
 - **Postdoctoral Fellow**, 2024.1 - Present, Zhejiang University
 
 ## Review Experience
-- ICLR, NeurIPS, ECCV, ICCV, Nature Communication 
+- ACL, EMNLP, ICLR, NeurIPS, ECCV, ICCV, Nature Communication 
 
 
 ## Honors and Awards

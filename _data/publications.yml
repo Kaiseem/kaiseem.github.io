@@ -1,4 +1,14 @@
 main:
+  - title: Test-time Compute:from System-1 Thinking to System-2 Thinking
+    authors: Yixin Ji, Juntao Li, Hai Ye, Kaixin Wu,  <strong>Kai Yao*</strong>, Jia Xu, Linjian Mo, Min Zhang
+    conference_short: Under Review
+    # conference: European Conference on Computer Vision
+    pdf: https://arxiv.org/abs/2501.02497
+    #code: https://github.com/chaolongy/KDTalker
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/img/system2.png
+    notes: Under Review
+
   - title: SCMix:Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation
     authors: <strong>Kai Yao*</strong>, Zhaorui Tan*, Zixian Su, Xi Yang, Jie Sun, Kaizhu Huang
     conference_short: TNNLS
