@@ -1,6 +1,6 @@
 main:
   - title: Test-time Compute:from System-1 Thinking to System-2 Thinking
-    authors: Yixin Ji, Juntao Li, Hai Ye, Kaixin Wu,  <strong>Kai Yao*</strong>, Jia Xu, Linjian Mo, Min Zhang
+    authors: Yixin Ji, Juntao Li, Hai Ye, Kaixin Wu,  <strong>Kai Yao</strong>, Jia Xu, Linjian Mo, Min Zhang
     conference_short: Under Review
     # conference: European Conference on Computer Vision
     pdf: https://arxiv.org/abs/2501.02497
