@@ -1,4 +1,13 @@
 main:
+  - title: GradOT:Training-free Gradient-persevering Offsite-tuning for Large Language Models
+    authors: <strong>Kai Yao*</strong>, Zhaorui Tan*, Penglei Gao, Lichun Li, Kaixin Wu, Yinggui Wang, Yuan Zhao, Yixin Ji, Wei Wang, Jianke Zhu
+    conference_short: ACL2025
+    conference: Annual Meeting of the Association for Computational Linguistics
+#    pdf: https://arxiv.org/pdf/2410.11772
+#    code: https://github.com/antgroup/importance-aware-sparse-tuning-IST-paper
+    # bibtex: ./assets/files/TTA.txt
+    image: ./assets/img/acl25_gradot.png
+    notes: CCF-A, NLP Top
   - title: Test-time Compute:from System-1 Thinking to System-2 Thinking
     authors: Yixin Ji, Juntao Li, Hai Ye, Kaixin Wu,  <strong>Kai Yao</strong>, Jia Xu, Linjian Mo, Min Zhang
     conference_short: Under Review
@@ -40,7 +49,7 @@ main:
     conference_short: EMNLP2024
     conference: Proceedings of Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2410.11772
-    code: https://github.com/Kaiseem/IST
+    code: https://github.com/antgroup/importance-aware-sparse-tuning-IST-paper
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/emnlp24_ist.png
     notes: CCF-B, NLP Top
