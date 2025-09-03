@@ -19,7 +19,7 @@ main:
 
   - title: Towards Instance-wise Personalized Federated Learning via Semi-Implicit Bayesian Prompt Tuning
     authors: Tiandi Ye, Wenyan Liu, <strong>Kai Yao</strong>, Lichun Li, Shangchao Su, Cen Chen, Xiang Li, Shan Yin, Ming Gao
-    conference_short: CIKM25
+    conference_short: CIKM2025
     conference: ACM International Conference on Information and Knowledge Management
     pdf: https://arxiv.org/pdf/2508.19621
     image: ./assets/img/cikm25.png
