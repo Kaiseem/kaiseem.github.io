@@ -1,13 +1,40 @@
 main:
+  - title: Unlock Pose Diversity:Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait
+    authors: Chaolong Yang*, <strong>Kai Yao*</strong>, Yuyao Yan, Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang
+    conference_short: IJCV
+    conference: International Journal of Computer Vision
+    pdf: https://arxiv.org/abs/2503.12963
+    code: https://github.com/chaolongy/KDTalker
+    image: ./assets/img/kdtalker.png
+    notes: CCF-A, CV Top
+
+  - title: KDTalker++:Controllable Talking Portrait Generation with Audio, Text, and Expression Editing
+    authors: Chaolong Yang, Yinuo Guo, <strong>Kai Yao</strong>, Yuyao Yan, Jie Sun, Kaizhu Huang
+    conference_short: ACM MM2025
+    conference: ACM Multimedia
+    code: https://kdtalker.com/
+    #pdf: https://arxiv.org/abs/2503.12963
+    image: ./assets/img/acmmm_kdtalker.png
+    notes: CCF-A, CV Top
+
+  - title: Towards Instance-wise Personalized Federated Learning via Semi-Implicit Bayesian Prompt Tuning
+    authors: Tiandi Ye, Wenyan Liu, <strong>Kai Yao</strong>, Lichun Li, Shangchao Su, Cen Chen, Xiang Li, Shan Yin, Ming Gao
+    conference_short: CIKM25
+    conference: ACM International Conference on Information and Knowledge Management
+    pdf: https://arxiv.org/pdf/2508.19621
+    image: ./assets/img/cikm25.png
+    notes: CCF-B
+
   - title: GradOT:Training-free Gradient-persevering Offsite-tuning for Large Language Models
     authors: <strong>Kai Yao*</strong>, Zhaorui Tan*, Penglei Gao, Lichun Li, Kaixin Wu, Yinggui Wang, Yuan Zhao, Yixin Ji, Wei Wang, Jianke Zhu
     conference_short: ACL2025
     conference: Annual Meeting of the Association for Computational Linguistics
-#    pdf: https://arxiv.org/pdf/2410.11772
+    pdf: https://aclanthology.org/2025.acl-long.255/
 #    code: https://github.com/antgroup/importance-aware-sparse-tuning-IST-paper
     # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/acl25_gradot.png
     notes: CCF-A, NLP Top
+
   - title: Test-time Compute:from System-1 Thinking to System-2 Thinking
     authors: Yixin Ji, Juntao Li, Hai Ye, Kaixin Wu,  <strong>Kai Yao</strong>, Jia Xu, Linjian Mo, Min Zhang
     conference_short: Under Review
@@ -25,16 +52,6 @@ main:
     pdf: https://arxiv.org/pdf/2407.10923
     image: ./assets/img/scmix.png
     notes: CCF-B
-
-  - title: Unlock Pose Diversity:Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait
-    authors: Chaolong Yang*, <strong>Kai Yao*</strong>, Yuyao Yan, Chenru Jiang, Weiguang Zhao, Jie Sun, Guangliang Cheng, Yifei Zhang, Bin Dong, Kaizhu Huang
-    conference_short: Under Review
-    # conference: European Conference on Computer Vision
-    pdf: https://arxiv.org/abs/2503.12963
-    code: https://github.com/chaolongy/KDTalker
-    # bibtex: ./assets/files/TTA.txt
-    image: ./assets/img/kdtalker.png
-    notes: Under Review
 
   - title: ScaleOT:Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression
     authors: <strong>Kai Yao</strong>, Zhaorui Tan, Tiandi Ye, Lichun Li, Yuan Zhao, Wenyan Liu, Wei Wang, Jianke Zhu
