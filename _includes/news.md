@@ -22,9 +22,9 @@
 <li><strong>[SEP. 2024]</strong> Our conference paper accepted in EMNLP24.</li>
 <li><strong>[DEC. 2023]</strong> Our conference paper accepted in AAAI24.</li> 
 
-<li><a href="javascript:toggle_vis('news')">show more</a></li>
+<li><a href="javascript:toggle_vis('more-news')">show more</a></li>
 </ul>
-<ul id="news" style="display:none;">
+<ul id="more-news" style="display:none;">
 <li>Aug 2023 - Our papers accepted as Oral Presentation in ACM CIKM2023.</li>
 <li>May 2023 - Our two journal papers accepted in IEEE TETCI and IJB.</li>
 <li>Nov 2022 - Our conference paper accepted in AAAI'23. We propose a novel augmentation for medical image domain generalization. The code released at <a href="https://github.com/Kaiseem/SLAug">here</a>.</li>
