@@ -1,6 +1,6 @@
 main:
   - title: GAST:Gradient-aligned Sparse Tuning of Large Language Models with Data-layer Selection
-    authors: <strong>Kai Yao*</strong>, Zhenghan Song, Kaixin Wu, mingjie zhong, Danzhao Cheng, Zhaorui Tan, Yixin Ji, Penglei Gao
+    authors: <strong>Kai Yao</strong>, Zhenghan Song, Kaixin Wu, mingjie zhong, Danzhao Cheng, Zhaorui Tan, Yixin Ji, Penglei Gao
     conference_short: EACL 2026 Oral
     conference: European Chapter of the Association for Computational Linguistics
     #pdf: https://arxiv.org/abs/2503.12963
