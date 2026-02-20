@@ -19,9 +19,12 @@ I'm a researcher at Ant Group, working on Large Language Models. My research jou
 - **Ph.D. in Computer Science**, 2019.12 - 2023.11, [University of Liverpool](https://www.liverpool.ac.uk/)
 - **B.Eng. in Computer Science**, 2014.9 - 2018.6, [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en)
 
+## Research Experience
+- **Postdoctoral Fellow**, 2024.1 - 2026.1, Zhejiang University
+- 
 ## Work Experience
 - **Senior Algorithm Engineer**, 2024.1 - Present, Ant Group
-- **Postdoctoral Fellow**, 2024.1 - 2026.1, Zhejiang University
+
 
 ## Review Experience
 - ACL, EMNLP, ICLR, NeurIPS, CVPR, ECCV, ICCV, Nature Communication 
