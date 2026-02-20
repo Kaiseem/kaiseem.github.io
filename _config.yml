@@ -1,6 +1,6 @@
 # Basic Information 
 title: Kai Yao
-position: Senior Algorithm Engineer, PostDoc
+position: Senior Algorithm Engineer
 affiliation: Ant Group
 # subaffiliation: Department of Computer Science
 affiliation_link: https://www.antgroup.com/en
@@ -14,7 +14,7 @@ address: Hangzhou, China
 # Search Engine Optimization (SEO)
 keywords: kai yao, yao kai, yaokai
 canonical: https://minimal-light-theme.yliu.me/
-description: Kai Yao is a Senior Algorithm Engineer at Ant Group, PostDoc at Zhejiang University.
+description: Kai Yao is a Senior Algorithm Engineer at Ant Group.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
