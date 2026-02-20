@@ -13,11 +13,12 @@
 </script>
 
 <ul>
-<li><strong>[SEG. 2025]</strong> Our paper accepted in IJCV and ACM MM2025.</li> 
-<li><strong>[AUG. 2025]</strong> Our conference paper accepted in CIKM2025.</li> 
-<li><strong>[APR. 2025]</strong> Our conference paper accepted in ACL2025.</li> 
-<li><strong>[DEC. 2024]</strong> Our conference paper accepted in AAAI2025 as Oral presentation.</li> 
-<li><strong>[NOV. 2024]</strong> I am happy to attend EMNLP24 in person at Miami.</li> 
+<li><strong>[JAN. 2026]</strong> Our conference paper accepted in EACL 2026 as Oral presentation.</li> 
+<li><strong>[SEG. 2025]</strong> Our paper accepted in IJCV and ACM MM 2025.</li> 
+<li><strong>[AUG. 2025]</strong> Our conference paper accepted in CIKM 2025.</li> 
+<li><strong>[APR. 2025]</strong> Our conference paper accepted in ACL 2025.</li> 
+<li><strong>[DEC. 2024]</strong> Our conference paper accepted in AAAI 2025 as Oral presentation.</li> 
+<li><strong>[NOV. 2024]</strong> I am happy to attend EMNLP 2024 in person at Miami.</li> 
 <li><strong>[SEP. 2024]</strong> Our conference paper accepted in EMNLP24.</li>
 <li><strong>[DEC. 2023]</strong> Our conference paper accepted in AAAI24.</li> 
 
