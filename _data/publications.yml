@@ -3,7 +3,7 @@ main:
     authors: <strong>Kai Yao</strong>, Zhenghan Song, Kaixin Wu, mingjie zhong, Danzhao Cheng, Zhaorui Tan, Yixin Ji, Penglei Gao
     conference_short: EACL 2026 Oral
     conference: European Chapter of the Association for Computational Linguistics
-    #pdf: https://arxiv.org/abs/2503.12963
+    pdf: https://aclanthology.org/2026.eacl-long.206.pdf
     #code: https://github.com/chaolongy/KDTalker
     image: ./assets/img/ecal26_gast.png
     notes: NLP Top
@@ -22,7 +22,7 @@ main:
     conference_short: ACM MM 2025
     conference: ACM Multimedia
     code: https://kdtalker.com/
-    #pdf: https://arxiv.org/abs/2503.12963
+    pdf: https://dl.acm.org/doi/abs/10.1145/3746027.3754462
     image: ./assets/img/acmmm_kdtalker.png
     notes: CCF-A, CV Top
 
@@ -39,8 +39,6 @@ main:
     conference_short: ACL 2025
     conference: Annual Meeting of the Association for Computational Linguistics
     pdf: https://aclanthology.org/2025.acl-long.255/
-#    code: https://github.com/antgroup/importance-aware-sparse-tuning-IST-paper
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/acl25_gradot.png
     notes: CCF-A, NLP Top
 
@@ -49,8 +47,6 @@ main:
     conference_short: Under Review
     # conference: European Conference on Computer Vision
     pdf: https://arxiv.org/abs/2501.02497
-    #code: https://github.com/chaolongy/KDTalker
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/system2.png
     notes: Under Review
 
@@ -76,7 +72,6 @@ main:
     conference: Proceedings of Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2410.11772
     code: https://github.com/antgroup/importance-aware-sparse-tuning-IST-paper
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/emnlp24_ist.png
     notes: CCF-B, NLP Top
 
@@ -86,19 +81,16 @@ main:
     conference: European Conference on Computer Vision
     pdf: https://arxiv.org/pdf/2311.15939
     code: https://github.com/windygoo/PromptNucSeg
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/eccv24_promptnucseg.png
     notes: CCF-B, CV Top
 
   - title: OPa-Ma:Text Guided Mamba for 360-degree Image Out-painting
     authors: Penglei Gao*, <strong>Kai Yao*</strong>, Tiandi Ye, Steven Wang, Yuan Yao, Xiaofeng Wang
-    conference_short: Under Review
-    # conference: European Conference on Computer Vision
+    conference_short: PR
+    conference: Pattern Recognition
     pdf: https://arxiv.org/pdf/2407.10923
-    # code: https://github.com/windygoo/PromptNucSeg
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/opama.png
-    notes: Under Review
+    notes: CCF-B
 
   - title: Unraveling Batch Normalization for Realistic Test-Time Adaptation
     authors: Zixian Su, Jingwei Guo, <strong>Kai Yao</strong>, Xi Yang, Qiufeng Wang, Kaizhu Huang
@@ -106,7 +98,6 @@ main:
     conference: Proceedings of Association for the Advancement of Artificial Intelligence
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29436
     code: https://github.com/kiwi12138/RealisticTTA
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/aaai24_tta.png
     notes: CCF-A
 
@@ -115,7 +106,6 @@ main:
     conference_short: CIKM 2023 Oral
     conference: ACM International Conference on Information and Knowledge Management
     pdf: https://doi.org/10.1145/3583780.3614872
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/cikm23_uda.png
     notes: CCF-B, DM Top
 
@@ -124,7 +114,6 @@ main:
 #    conference_short: IJB
 #    conference: International Journal of Bioprinting
 #    pdf: https://ijb.whioce.com/index.php/int-j-bioprinting/article/view/717
-#    # bibtex: ./assets/files/TTA.txt
 #    image: ./assets/img/ijb23_1.png
 #    notes: SCI Q1, IF 6.8
 
@@ -134,7 +123,6 @@ main:
     conference: IEEE Transactions on Emerging Topics in Computational Intelligence
     pdf: https://arxiv.org/pdf/2111.01557
     code: https://github.com/Kaiseem/PointNu-Net
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/arxiv_pointnunet.png
     notes: SCI Q1, IF 5.7
 
@@ -143,7 +131,6 @@ main:
     conference_short: JBHI
     conference: IEEE Journal of Biomedical and Health Informatics
     pdf: https://arxiv.org/pdf/2205.11888
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/jbhi23_gap.png
     notes: SCI Q1, IF 7.7
 
@@ -152,7 +139,7 @@ main:
 #    conference_short: Processes
 #    conference: Processes
 #    pdf: https://www.mdpi.com/2227-9717/11/4/1003
-#    # bibtex: ./assets/files/TTA.txt
+#
 #    image: ./assets/img/process_23.png
 #    notes: Published
 
@@ -162,7 +149,6 @@ main:
     conference: Proceedings of Association for the Advancement of Artificial Intelligence
     pdf: https://arxiv.org/pdf/2211.14805
     code: https://github.com/Kaiseem/SLAug
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/aaai23_slaug.png
     notes: CCF-A
 
@@ -172,7 +158,6 @@ main:
     conference: European Conference on Computer Vision
     pdf: https://arxiv.org/pdf/2207.05312
     code: https://github.com/Kaiseem/QueryOTR
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/eccv22_queryotr.png
     notes: CCF-B, CV Top
 
@@ -182,7 +167,6 @@ main:
     conference: IEEE Journal of Biomedical and Health Informatics
     pdf: https://ieeexplore.ieee.org/abstract/document/9741336
     code: https://github.com/Kaiseem/DAR-UNet
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/jbhi22_darunet.png
     notes: SCI Q1, IF 7.7
 
@@ -191,7 +175,7 @@ main:
 #    conference_short: MT
 #    conference: Materials Today:Proceedings
 #    pdf: https://www.sciencedirect.com/science/article/pii/S2214785322057170
-#    # bibtex: ./assets/files/TTA.txt
+#
 #    image: ./assets/img/materialstoday.png
 #    notes: Published
 #
@@ -200,7 +184,7 @@ main:
 #    conference_short: IJB
 #    conference: International Journal of Bioprinting
 #    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852265
-#    # bibtex: ./assets/files/TTA.txt
+#
 #    image: ./assets/img/IJB21_adgan.png
 #    notes: SCI Q1, IF 6.8
 #
@@ -210,7 +194,7 @@ main:
 #    conference: Arxiv
 #    pdf: https://arxiv.org/pdf/2107.11022
 #    code: https://github.com/Kaiseem/AD-GAN
-#    # bibtex: ./assets/files/TTA.txt
+#
 #    image: ./assets/img/arxiv_adgan.png
 #    notes: Published
 
@@ -219,7 +203,7 @@ main:
 #    conference_short: IJB
 #    conference: International Journal of Bioprinting
 #    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852265
-#    # bibtex: ./assets/files/TTA.txt
+#
 #    image: ./assets/img/ijb21_1.png
 #    notes: SCI Q1, IF 6.8
 
@@ -229,7 +213,6 @@ main:
     conference: Cognitive Computation
     pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852265
     code: https://github.com/Kaiseem/Scaffold-A549
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/scaffoda549.png
     notes: CCF-B
 
@@ -238,7 +221,6 @@ main:
 #    conference_short: ACS
 #    conference: ACS Applied Bio Materials
 #    pdf: https://pubs.acs.org/doi/abs/10.1021/acsabm.0c01587
-#    # bibtex: ./assets/files/TTA.txt
 #    image: ./assets/img/abridgeofcar.jpg
 #    notes: SCI Q2
 
@@ -247,7 +229,6 @@ main:
     conference_short: NeuroComp.
     conference: NeuroComputing
     pdf: https://www.sciencedirect.com/science/article/pii/S0925231220303313
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/ksminmax.png
     notes: CCF-C
 
@@ -256,6 +237,5 @@ main:
     conference_short: ICONIP 2018
     conference: International Conference on Neural Information Processing
     pdf: https://link.springer.com/chapter/10.1007/978-3-030-04167-0_17
-    # bibtex: ./assets/files/TTA.txt
     image: ./assets/img/ksminmax.png
     notes: CCF-C
