@@ -4,7 +4,6 @@ main:
     conference_short: EACL 2026 Oral
     conference: European Chapter of the Association for Computational Linguistics
     pdf: https://aclanthology.org/2026.eacl-long.206.pdf
-    #code: https://github.com/chaolongy/KDTalker
     image: ./assets/img/ecal26_gast.png
     notes: NLP Top
 
@@ -139,7 +138,6 @@ main:
 #    conference_short: Processes
 #    conference: Processes
 #    pdf: https://www.mdpi.com/2227-9717/11/4/1003
-#
 #    image: ./assets/img/process_23.png
 #    notes: Published
 
@@ -175,7 +173,6 @@ main:
 #    conference_short: MT
 #    conference: Materials Today:Proceedings
 #    pdf: https://www.sciencedirect.com/science/article/pii/S2214785322057170
-#
 #    image: ./assets/img/materialstoday.png
 #    notes: Published
 #
@@ -184,7 +181,6 @@ main:
 #    conference_short: IJB
 #    conference: International Journal of Bioprinting
 #    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852265
-#
 #    image: ./assets/img/IJB21_adgan.png
 #    notes: SCI Q1, IF 6.8
 #
@@ -194,7 +190,6 @@ main:
 #    conference: Arxiv
 #    pdf: https://arxiv.org/pdf/2107.11022
 #    code: https://github.com/Kaiseem/AD-GAN
-#
 #    image: ./assets/img/arxiv_adgan.png
 #    notes: Published
 
@@ -203,7 +198,6 @@ main:
 #    conference_short: IJB
 #    conference: International Journal of Bioprinting
 #    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8852265
-#
 #    image: ./assets/img/ijb21_1.png
 #    notes: SCI Q1, IF 6.8
 
